@@ -11,7 +11,7 @@
 // Robot Configuration:
 // [Name]               [Type]        [Port(s)]
 // Controller1          controller                    
-// rightFront           motor         18              
+// rightFront           motor         19           
 // leftFront            motor         3               
 // leftBack             motor         8               
 // rightBack            motor         14              
